@@ -3,15 +3,23 @@
 > ## Introduction
 > 
 > Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
-> 
+
+It isn't clear what "distribution terms" means here.  It could mean "the terms with which software is distributed".  It could mean "terms governing distribution".
+
 > ## 1. Free Redistribution
 > 
 > The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
-> 
+
+Term of Note: "aggregate software distribution"
+
 > ## 2. Source Code
 > 
 > The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
-> 
+
+Note that providing source code is not a requirement on _license terms_.  It's a practical requirement satisfied only by actually providing source.
+
+Open Source licenses don't usually make any warranty whatsoever, and no Open Source licenses I'm aware of make a licensor warranty that source is or will be available.
+
 > ## 3. Derived Works
 > 
 > The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
@@ -27,11 +35,19 @@
 > ## 6. No Discrimination Against Fields of Endeavor
 > 
 > The license must not restrict anyone from making use of the program in a specific field of endeavor. For example, it may not restrict the program from being used in a business, or from being used for genetic research.
-> 
+
+Other examples:
+
+- commercial use
+- "evil", as under the JSON License
+- military use
+
 > ## 7. Distribution of License
 > 
 > The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties.
-> 
+
+Phrase of Note: "attached to the program"
+
 > ## 8. License Must Not Be Specific to a Product
 > 
 > The rights attached to the program must not depend on the program's being part of a particular software distribution. If the program is extracted from that distribution and used or distributed within the terms of the program's license, all parties to whom the program is redistributed should have the same rights as those that are granted in conjunction with the original software distribution.
