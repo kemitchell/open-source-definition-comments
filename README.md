@@ -43,6 +43,8 @@
 > ## 10. License Must Be Technology-Neutral
 > 
 > No provision of the license may be predicated on any individual technology or style of interface.
+>
+> ---
 > 
 > The Open Source Definition was originally derived from the Debian Free Software Guidelines (DFSG).
 > 
